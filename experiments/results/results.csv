@@ -1,0 +1,5 @@
+tc_id,name,topology,n_nodes,n_edges,agent_a_success,agent_a_attempts,checker_passed,checker_has_warnings,p_chosen,shots_chosen,circuit_depth,circuit_gates,bf_cut_value,qaoa_best_cut,qaoa_expected_cut,approximation_ratio,random_baseline_ratio,runtime_seconds
+TC1,星形圖（無權重）,Star Graph,5,4,True,1,True,False,2,2048,12,28,4.0,4.0,3.5483,0.8871,0.5,18.44
+TC2,K3 三角形（幾何阻挫）,Complete Graph K3,3,3,True,1,True,False,2,1024,10,18,2.0,2.0,2.0,1.0,0.75,11.88
+TC3,帶權重圖（資料中心）,Weighted Graph,4,5,True,1,True,False,2,1024,14,26,25.0,25.0,17.1338,0.6854,0.52,13.1
+TC4,分離子圖（連通性警告）,Disconnected Graph,4,2,True,1,True,True,2,1024,6,20,2.0,2.0,1.9619,0.981,0.5,12.19

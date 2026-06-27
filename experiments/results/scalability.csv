@@ -1,0 +1,6 @@
+n_nodes,n_edges,p_chosen,shots_chosen,circuit_depth,circuit_gates,bf_cut_value,qaoa_expected_cut,approximation_ratio,random_baseline_ratio,runtime_seconds
+4,3,2,1024,8,22,3.0,2.2383,0.7461,0.5,12.94
+5,7,2,2048,15,34,5.0,3.9224,0.7845,0.7,10.53
+6,9,1,2048,10,27,7.0,5.4229,0.7747,0.6429,10.18
+7,11,1,4096,10,32,8.0,5.9958,0.7495,0.6875,9.04
+8,16,1,4096,14,40,13.0,9.7866,0.7528,0.6154,11.68

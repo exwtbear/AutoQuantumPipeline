@@ -1,0 +1,10 @@
+phrasing_id,description,run_id,n_nodes_ok,n_edges_ok,weights_match,agent_a_attempts,parsed_n_nodes,parsed_n_edges,parsed_weights,error
+P1,原版措辭（資料中心 D1-D4）,1,True,True,True,1,4,5,"[1.0, 2.0, 5.0, 8.0, 10.0]",
+P1,原版措辭（資料中心 D1-D4）,2,True,True,True,1,4,5,"[1.0, 2.0, 5.0, 8.0, 10.0]",
+P1,原版措辭（資料中心 D1-D4）,3,True,True,True,1,4,5,"[1.0, 2.0, 5.0, 8.0, 10.0]",
+P2,改名措辭（伺服器 Alpha-Delta）,1,True,True,True,1,4,5,"[1.0, 2.0, 5.0, 8.0, 10.0]",
+P2,改名措辭（伺服器 Alpha-Delta）,2,True,True,True,1,4,5,"[1.0, 2.0, 5.0, 8.0, 10.0]",
+P2,改名措辭（伺服器 Alpha-Delta）,3,True,True,True,1,4,5,"[1.0, 2.0, 5.0, 8.0, 10.0]",
+P3,口語措辭（模組一~四）,1,True,True,True,1,4,5,"[1.0, 2.0, 5.0, 8.0, 10.0]",
+P3,口語措辭（模組一~四）,2,True,True,True,1,4,5,"[1.0, 2.0, 5.0, 8.0, 10.0]",
+P3,口語措辭（模組一~四）,3,True,True,True,1,4,5,"[1.0, 2.0, 5.0, 8.0, 10.0]",
